@@ -1,0 +1,7 @@
+Customer ID,Name,Purchase Date,Product,Revenue ($),Email
+101,Alice,2023-01-01,Widget A,100.0,alice@example.com
+102,Bob,01/15/2023,Widget B,200.5,bob@example.com
+103,Charlie,March 3, 2023,Widget A,
+104,David,2023/04/01,Widget C,150.0,david@example.com
+104,David,2023/04/01,Widget C,150.0,david@example.com
+,Eve,,Widget B,300.0,eve@example.com

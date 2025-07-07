@@ -1,0 +1,5 @@
+customer_id,name,purchase_date,product,revenue_($),email
+101.0,Alice,2023-01-01,Widget A,100.0,alice@example.com
+102.0,Bob,,Widget B,200.5,bob@example.com
+103.0,Charlie,, 2023,,unknown@example.com
+104.0,David,,Widget C,150.0,david@example.com
